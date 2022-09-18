@@ -1,0 +1,35 @@
+
+.logocodo {
+    width: 150px;
+}
+
+nav {
+    background-color: rgb(173, 173, 173);
+    height: 40px;
+
+}
+
+ul{
+    text-align: right;
+}
+nav li{
+    display:inline-block;
+    text-align: right;
+}
+
+.logohtml {
+    width: 100px;
+}
+
+.logocss {
+    width: 100px;
+}
+.container {
+    width: 70%;
+    margin-left: 10%;
+}
+
+.pie {
+    background-color: rgb(173, 173, 173);
+    text-align: center;
+}
